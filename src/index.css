@@ -1,0 +1,18 @@
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.mg {
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gg {
+    padding-top: 90px;
+}

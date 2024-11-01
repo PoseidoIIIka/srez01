@@ -1,0 +1,10 @@
+.search {
+    padding: 10px 25px 10px 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 400px;
+}
+
+.search::placeholder {
+    font-size: 16px;
+}
